@@ -1,0 +1,95 @@
+text,intent_name
+Registrasi mahasiswa baru dilaksanakan dari 2 Desember 2024 sampai 29 Agustus 2025.,registrasi_mahasiswa_baru
+Pengisian KRS online dan konsultasi dengan dosen PA berlangsung dari 2 Juni 2025 hingga 27 Juni 2025.,pengisian_krs
+Berikut cara mengisi KRS: 1) Login ke portal mahasiswa. 2) Pilih menu KRS. 3) Pilih mata kuliah sesuai semester. 4) Konsultasikan dengan dosen PA bila diperlukan. 5) Simpan dan ajukan KRS hingga mendapat persetujuan.,panduan_pengisian_krs
+"Periode tinjauan nilai sesuai kalender akademik adalah sebagai berikut: mahasiswa D3 dan S1 dapat mengajukan pada 26–28 Januari 2026, sedangkan mahasiswa S2 dan S3 memiliki jadwal pada 20 Januari 2026. Fakultas kemudian memproses seluruh hasil tinjauan pada 30 Januari 2026.",tinjauan_nilai
+"Jadwal tinjauan nilai telah ditetapkan oleh kampus: S1/D3 pada 26–28 Januari 2026, dan S2/S3 pada 20 Januari 2026, dengan proses finalisasi oleh fakultas pada 30 Januari 2026.",tinjauan_nilai
+"Pengajuan tinjauan nilai dapat dilakukan pada jadwal berikut: 20 Januari 2026 untuk S2/S3, serta 26–28 Januari 2026 untuk D3/S1. Semua hasil akan direkap dan diselesaikan pada 30 Januari 2026.",tinjauan_nilai
+Pembayaran wisuda dilakukan melalui virtual account masing-masing mahasiswa sesuai jadwal resmi. Pastikan pembayaran sudah dilakukan sebelum tenggat agar data dapat divalidasi.,pembayaran_wisuda
+Biaya wisuda dibayarkan via VA bank yang tersedia pada portal mahasiswa. Lakukan pembayaran sebelum batas akhir dan simpan bukti pembayaran untuk konfirmasi.,pembayaran_wisuda
+Pembayaran angsuran mengikuti jadwal yang muncul di portal mahasiswa. Periksa tagihan Anda secara berkala untuk menghindari keterlambatan.,angsuran_perkuliahan
+Angsuran dapat dibayarkan melalui virtual account sesuai nominal dan tenggat waktu yang tertera di sistem.,angsuran_perkuliahan
+"Pemutakhiran biodata mahasiswa dapat dilakukan melalui portal mahasiswa pada menu profil. Jika ada data yang tidak dapat diubah, silakan menghubungi bagian akademik.",pemutakhiran_biodata
+Mahasiswa dapat memperbarui informasi pribadi melalui sistem kampus atau dengan bantuan akademik jika perubahan membutuhkan dokumen pendukung.,pemutakhiran_biodata
+Nama Dosen Pembimbing Akademik dapat dilihat melalui portal mahasiswa pada menu informasi akademik atau KRS.,informasi_dosen_pa
+"Mahasiswa dapat berkonsultasi dengan PA mengenai rencana studi, kendala akademik, dan pemilihan mata kuliah sesuai prosedur program studi.",informasi_dosen_pa
+"Jika KTM hilang, silakan melapor ke bagian akademik dengan membawa identitas diri dan surat kehilangan. Kampus akan memproses penggantian KTM baru.",ktm_hilang
+"Untuk penggantian KTM, mahasiswa perlu melapor ke administrasi dan menyiapkan dokumen pendukung seperti surat kehilangan dari kepolisian.",ktm_hilang
+"Perubahan KRS secara online dapat dilakukan pada 11–13 Agustus 2025, sedangkan melalui dosen PA pada 14 Agustus–5 September 2025.",perubahan_krs
+"Informasi penugasan pembimbing KKN, KKP, dan Tugas Akhir biasanya dirilis melalui portal akademik pada menu khusus tiap kegiatan.",penetapan_pembimbing_program
+Penetapan pembimbing akan muncul di akun mahasiswa setelah proses alokasi dosen selesai dilakukan oleh program studi.,penetapan_pembimbing_program
+"Jika daftar pembimbing belum tampil, kemungkinan distribusi pembimbing masih dalam proses. Anda dapat menghubungi administrasi prodi bila memerlukan konfirmasi.",penetapan_pembimbing_program
+Pengajuan cuti kuliah dapat dilakukan mulai 7 Juli hingga 6 September 2025.,cuti_kuliah
+Perkuliahan semester gasal dilaksanakan dari 15 September 2025 hingga 26 Desember 2025.,jadwal_perkuliahan
+Ujian Tengah Semester (UTS) dilaksanakan pada 3–14 November 2025.,ujian_tengah_semester
+Ujian Akhir Semester (UAS) dilaksanakan dari 5 Januari sampai 16 Januari 2026.,ujian_akhir_semester
+Permohonan peralihan dosen pembimbing dapat diajukan melalui program studi dengan menyertakan alasan yang jelas serta dokumen pendukung sesuai ketentuan yang berlaku.,pengajuan_peralihan_pembimbing
+Proses peralihan pembimbing biasanya dilakukan melalui formulir atau surat resmi yang diserahkan ke administrasi program studi untuk ditinjau.,pengajuan_peralihan_pembimbing
+"Perubahan pembimbing harus melalui evaluasi dan persetujuan prodi. Jika alasan mahasiswa valid, prodi akan menetapkan pembimbing pengganti.",pengajuan_peralihan_pembimbing
+"Jika mengalami kendala komunikasi, ketidaksesuaian bidang, atau kendala lain yang relevan, mahasiswa dapat mengusulkan peralihan pembimbing melalui prosedur resmi prodi.",pengajuan_peralihan_pembimbing
+Ujian remedial dilaksanakan dari 9 Februari sampai 20 Februari 2026.,remedial
+"Periode pendaftaran KKP dibuka pada 10 Juni hingga 29 Agustus 2025, kemudian diikuti pelaksanaan sesuai agenda program studi.",jadwal_pelaksanaan_kkp
+"Tahapan Tugas Akhir dimulai dari pendaftaran pada 25 Agustus–12 September 2025, disusul penyusunan dan bimbingan hingga sidang pada 12 Januari–6 Februari 2026.",tahapan_ta
+"Mahasiswa perlu mengikuti setiap tahap TA mulai dari pengajuan, penyusunan, bimbingan, hingga sidang akhir sesuai jadwal program studi.",tahapan_ta
+"Agenda KKN dilaksanakan mengikuti kalender akademik yang berlaku. Untuk tahun ini, kegiatan berlangsung pada 19 Januari hingga 15 Februari 2026.",jadwal_kuliah_kerja_nyata
+Rundown lengkap kegiatan KKN dapat dilihat melalui portal akademik setelah diumumkan oleh program studi.,jadwal_kuliah_kerja_nyata
+"Pendampingan KKP biasanya dimulai setelah mahasiswa terdaftar secara resmi, biasanya sekitar pertengahan Juni hingga menjelang pelaksanaan lapangan.",bimbingan_praktik_kkp
+Konsultasi dilakukan mengikuti jadwal yang ditetapkan dosen pembimbing masing-masing.,bimbingan_praktik_kkp
+Laporan KKP biasanya harus dikumpulkan paling lambat satu minggu sebelum sidang KKP.,pengumpulan_laporan_kkp
+Pengumpulan dapat dilakukan melalui pembimbing atau sistem yang telah ditentukan oleh program studi.,pengumpulan_laporan_kkp
+"Sidang KKP dijadwalkan bersamaan dengan sidang tugas akhir, yaitu pada 12 Januari hingga 6 Februari 2026.",kkp_sidang
+Pelaksanaan sidang KKP dilakukan setelah mahasiswa mengumpulkan laporan akhir dan disetujui pembimbing.,kkp_sidang
+"Bimbingan KKN dilakukan sebelum pelaksanaan di lapangan, dimulai sejak awal Januari 2026.",kkn_bimbingan
+Mahasiswa wajib mengikuti bimbingan KKN bersama dosen pembimbing minimal dua kali sebelum turun ke lokasi.,kkn_bimbingan
+"Laporan KKN dikumpulkan paling lambat satu minggu setelah kegiatan lapangan selesai, yaitu sekitar 22 Februari 2026.",kkn_laporan
+Mahasiswa wajib menyerahkan laporan kelompok dan individu ke dosen pembimbing paling lambat akhir Februari 2026.,kkn_laporan
+"Tahap pendampingan Tugas Akhir dimulai setelah pendaftaran bimbingan dinyatakan diterima, yaitu sekitar 25 Agustus hingga Desember 2025 sesuai kalender akademik.",ta_bimbingan
+Mahasiswa wajib mengikuti sesi konsultasi TA secara rutin bersama pembimbing hingga siap mengikuti sidang.,ta_bimbingan
+"Laporan tugas akhir dikumpulkan paling lambat satu minggu sebelum jadwal sidang, sekitar awal Januari 2026.",ta_laporan
+Mahasiswa wajib menyerahkan laporan akhir ke dosen pembimbing dan bagian akademik sebelum mengikuti sidang.,ta_laporan
+"Sidang Tugas Akhir dijadwalkan pada 12 Januari–6 Februari 2026, sesuai kalender akademik.",pelaksanaan_sidang_ta
+Daftar peserta dan pengumuman hasil sidang tersedia melalui portal akademik.,pelaksanaan_sidang_ta
+"Pendaftaran wisuda dibuka pada 23 Februari hingga 13 Maret 2026, dan pelaksanaan wisuda dijadwalkan pada April 2026.",wisuda
+"Yudisium mahasiswa dijadwalkan setelah pengolahan nilai UAS dan sebelum wisuda, yaitu pada akhir Februari 2026.",yudisium
+Perkuliahan program pascasarjana semester gasal dimulai pada 6 Oktober 2025 dan berakhir pada 30 Januari 2026.,jadwal_kuliah_pasca
+Mahasiswa S2 dan S3 mengikuti jadwal akademik yang telah dijadwalkan oleh fakultas pascasarjana.,jadwal_kuliah_pasca
+"Ujian Tengah Semester (UTS) pascasarjana dilaksanakan pada 15–26 Desember 2025, sedangkan UAS dilaksanakan 2–13 Februari 2026.",ujian_pascasarjana_jadwal_semester
+Mahasiswa program pascasarjana melaksanakan UTS dan UAS sesuai jadwal akademik yang ditentukan oleh Direktorat Pascasarjana.,ujian_pascasarjana_jadwal_semester
+"Untuk jadwal lengkap ujian pascasarjana, silakan cek kalender akademik atau hubungi administrasi pascasarjana UBL ya.",ujian_pascasarjana_jadwal_semester
+UTS dan UAS pascasarjana bisa dilaksanakan secara daring atau luring tergantung kebijakan fakultas.,ujian_pascasarjana_jadwal_semester
+"Mahasiswa dapat mengikuti Tugas Akhir setelah memenuhi ketentuan akademik seperti jumlah SKS minimum, kelulusan mata kuliah prasyarat, dan penyelesaian KKP atau KKN.",eligibilitas_tugas_akhir
+Pastikan seluruh persyaratan administratif dan akademik telah terpenuhi sebelum mengajukan Tugas Akhir sesuai ketentuan program studi.,eligibilitas_tugas_akhir
+Pendaftaran Tugas Akhir dapat dilakukan mulai dari xxxxx,registrasi_tugas_akhir
+"Syarat mengikuti KKP meliputi minimal 80 SKS, telah memenuhi mata kuliah prasyarat, dan mendapatkan persetujuan pembimbing akademik.",syarat_kkp
+Mahasiswa harus menyiapkan tempat praktik yang disetujui prodi sebelum mendaftar KKP.,syarat_kkp
+Syarat mengikuti KKN adalah mahasiswa minimal semester 6 dan sudah menempuh minimal 90 SKS.,kkn_persyaratan_umum
+KKN dilaksanakan secara kelompok dan merupakan kegiatan wajib bagi mahasiswa S1 Universitas Budi Luhur.,kkn_persyaratan_umum
+Mahasiswa dapat mengikuti KKN setelah memenuhi persyaratan akademik dan administrasi dari fakultas.,kkn_persyaratan_umum
+KKN biasanya berlangsung selama satu bulan dan wajib membuat laporan akhir kegiatan.,kkn_persyaratan_umum
+"Untuk informasi jadwal dan lokasi KKN, silakan lihat pengumuman di portal akademik atau hubungi bagian LPPM UBL.",kkn_persyaratan_umum
+"Libur akademik antara semester gasal dan genap berlangsung dari 19 Januari hingga 1 Februari 2026, bertepatan dengan libur akhir semester dan cuti Tahun Baru.",libur_akademik
+Selamat pagi! 🌞 Semoga harimu menyenangkan dan penuh semangat!,sapaan_pagi
+Pagi juga! Jangan lupa sarapan ya 😄,sapaan_pagi
+"Halo, selamat pagi! Ada yang bisa aku bantu hari ini?",sapaan_pagi
+Pagi! Semangat mulai hari ini 💪,sapaan_pagi
+Selamat siang! 🌤️ Semoga harimu lancar dan penuh energi!,sapaan_siang
+Halo! Selamat siang 😄 udah makan siang belum?,sapaan_siang
+Siang juga! Ada yang bisa aku bantu sekarang?,sapaan_siang
+"Selamat siang, semoga aktivitas kamu menyenangkan!",sapaan_siang
+Selamat sore! 🌇 Semoga hari kamu menyenangkan!,sapaan_sore
+"Halo, sore juga! Udah beres semua aktivitas hari ini?",sapaan_sore
+Selamat sore 😄 jangan lupa istirahat ya!,sapaan_sore
+"Sore yang indah, ada yang bisa aku bantu?",sapaan_sore
+Selamat malam 🌙 semoga hari kamu menyenangkan!,sapaan_malam
+Malam juga! Waktunya istirahat dan recharge energi 💫,sapaan_malam
+"Halo, selamat malam! Ada yang bisa aku bantu sebelum tidur?",sapaan_malam
+Selamat malam 😄 semoga harimu berakhir dengan senyum!,sapaan_malam
+"Halo! Aku asisten virtual Universitas Budi Luhur 🤖 Aku bisa bantu kamu cari informasi seputar akademik, jadwal, dan layanan kampus.",perkenalan
+"Hai! Aku chatbot UBL, siap bantu kamu cari info tentang kuliah, jadwal, dan kegiatan kampus 💙",perkenalan
+"Perkenalkan, aku asisten cerdas Universitas Budi Luhur. Mau tanya tentang apa hari ini?",perkenalan
+"Aku chatbot UBL, siap bantuin kamu kapan aja!",perkenalan
+Halo! 👋 Senang bisa ngobrol sama kamu. Ada yang bisa aku bantu?,sapaan
+Hai juga! 😊 Apa kabar hari ini?,sapaan
+Halo! Aku siap bantu kamu cari info seputar Universitas Budi Luhur 💙,sapaan
+Hai! Selamat datang di chatbot UBL. Mau tanya apa nih?,sapaan
+"Halo, senang kamu datang lagi! 🎓",sapaan

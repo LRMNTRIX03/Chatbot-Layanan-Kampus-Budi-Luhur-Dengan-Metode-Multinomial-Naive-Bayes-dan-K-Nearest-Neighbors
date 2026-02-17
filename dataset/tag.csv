@@ -1,0 +1,44 @@
+name,description
+registrasi_mahasiswa_baru,Pendaftaran dan registrasi ulang mahasiswa baru program sarjana
+pengisian_krs,Pengisian dan konsultasi rencana studi (KRS) mahasiswa aktif
+panduan_pengisian_krs,Panduan langkah-langkah pengisian Kartu Rencana Studi (KRS) di sistem akademik
+tinjauan_nilai,Informasi periode dan prosedur pengajuan tinjauan nilai berdasarkan kalender akademik
+pembayaran_wisuda,"Informasi biaya, mekanisme, dan tenggat pembayaran wisuda"
+angsuran_perkuliahan,Informasi pembayaran cicilan/angsuran biaya kuliah
+pemutakhiran_biodata,Prosedur pembaruan data pribadi mahasiswa di sistem kampus
+informasi_dosen_pa,"Akses informasi, penugasan, dan konsultasi dengan Dosen Pembimbing Akademik (DPA/PA)"
+ktm_hilang,Prosedur pelaporan dan penggantian Kartu Tanda Mahasiswa (KTM) yang hilang
+perubahan_krs,Periode revisi atau perubahan rencana studi setelah KRS awal
+penetapan_pembimbing_program,"Akses informasi alokasi dan penugasan dosen pembimbing untuk KKN, KKP, serta TA"
+cuti_kuliah,Masa pengajuan cuti kuliah bagi mahasiswa aktif
+jadwal_perkuliahan,Awal dan akhir masa perkuliahan semester gasal
+ujian_tengah_semester,Pelaksanaan Ujian Tengah Semester (UTS) untuk semua program
+ujian_akhir_semester,Pelaksanaan Ujian Akhir Semester (UAS) untuk seluruh program
+pengajuan_peralihan_pembimbing,"Permohonan resmi untuk mengalihkan dosen pembimbing pada KKN, KKP, atau Tugas Akhir"
+remedial,Ujian perbaikan nilai (remedial) bagi mahasiswa yang belum lulus
+jadwal_pelaksanaan_kkp,Informasi periode registrasi dan jadwal kegiatan KKP
+tahapan_ta,Langkah-langkah dan urutan pengerjaan Tugas Akhir dari awal sampai selesai
+jadwal_kuliah_kerja_nyata,"Informasi tentang jadwal, agenda, dan waktu pelaksanaan resmi Kuliah Kerja Nyata (KKN)"
+bimbingan_praktik_kkp,"Konsultasi, arahan teknis, dan supervisi dosen selama kegiatan KKP"
+pengumpulan_laporan_kkp,"Ketentuan terkait penyetoran, upload, dan finalisasi laporan KKP"
+kkp_sidang,Sidang dan presentasi hasil Kuliah Kerja Praktek (KKP)
+kkn_bimbingan,Bimbingan kegiatan Kuliah Kerja Nyata (KKN)
+kkn_laporan,Penyusunan dan pengumpulan laporan hasil kegiatan Kuliah Kerja Nyata (KKN)
+ta_bimbingan,Proses pendampingan dan konsultasi Tugas Akhir bersama dosen pembimbing
+ta_laporan,Penyusunan dan pengumpulan laporan tugas akhir (TA)
+pelaksanaan_sidang_ta,"Informasi jadwal, prosedur, dan ketentuan sidang akhir Tugas Akhir"
+wisuda,Pendaftaran dan pelaksanaan wisuda Universitas Budi Luhur
+yudisium,Proses penilaian akhir dan pengumuman kelulusan mahasiswa (yudisium)
+jadwal_kuliah_pasca,Informasi dimulainya kegiatan belajar program magister (S2) dan doktor (S3)
+ujian_pascasarjana_jadwal_semester,Informasi jadwal ujian tengah dan akhir semester untuk mahasiswa pascasarjana (S2/S3)
+eligibilitas_tugas_akhir,"Ketentuan, parameter akademik, dan syarat administratif untuk dapat mengikuti Tugas Akhir"
+registrasi_tugas_akhir,"Informasi mengenai proses, syarat, dan prosedur pendaftaran Tugas Akhir"
+syarat_kkp,Persyaratan akademik dan administratif untuk mengikuti KKP
+kkn_persyaratan_umum,Persyaratan dan ketentuan mengikuti Kuliah Kerja Nyata (KKN)
+libur_akademik,Masa libur akademik dan cuti bersama Universitas Budi Luhur
+sapaan_pagi,Ucapan sapaan di pagi hari
+sapaan_siang,Ucapan sapaan di siang hari
+sapaan_sore,Ucapan sapaan di sore hari
+sapaan_malam,Ucapan sapaan di malam hari
+perkenalan,Respon chatbot saat pengguna menanyakan identitas atau memperkenalkan diri
+sapaan,"Sapaan umum dari pengguna, seperti halo, hai, apa kabar, dan sejenisnya"
